@@ -1,4 +1,4 @@
-# spark
+# sparkjava
 Setting up basic project in sparkjava showing how to organize code as MVC in sparkjava.
 
 Dependencies sparkjava a micro web framework
